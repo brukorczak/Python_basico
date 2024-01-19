@@ -1,6 +1,6 @@
-# Exercícios de Python
+# Exercícios de Python básico
 
-A seguir estão alguns desafios de Python, cada um com uma breve descrição do que está sendo feito:
+Descrição dos desafios:
 
 1. **DESAFIO 1** 
    - Imprime a mensagem "Olá, mundo python!".

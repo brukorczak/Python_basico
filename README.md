@@ -1,6 +1,6 @@
 # Exercícios de Python básico
 
-Descrição dos desafios:
+**Descrição dos desafios:**
 
 1. **DESAFIO 1** 
    - Imprime a mensagem "Olá, mundo python!".
